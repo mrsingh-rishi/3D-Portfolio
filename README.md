@@ -1,3 +1,3 @@
 # 3D-Portfolio
 
-https://rishisingh-portfolio.netlify.app/
+View Deployment :- https://rishisingh-portfolio.netlify.app/
